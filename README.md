@@ -35,8 +35,32 @@ Admin Management:
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-
+![Demo](https://github.com/user-attachments/assets/bc6ea580-e7b6-4b91-a077-bc5555814630)
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
+
+![1](https://github.com/user-attachments/assets/6b57d4d6-5817-49f7-b348-d871a01b2a91)
+
+![2](https://github.com/user-attachments/assets/74ce3f92-1082-4f05-8a76-e790187f62dd)
+
+![3](https://github.com/user-attachments/assets/2b4c71db-2562-4dbc-941f-8474b650b06a)
+
+![4](https://github.com/user-attachments/assets/57544829-e7f0-43f0-94c5-e0c77d7d8f09)
+
+![5](https://github.com/user-attachments/assets/7a4f77d4-edfc-4298-b66a-60e455f9b457)
+
+![6](https://github.com/user-attachments/assets/e6a6eb98-633e-41d8-bb91-b8d3ac3c272c)
+
+![7](https://github.com/user-attachments/assets/82d70b00-666d-4b52-8bb2-4f639ef58c48)
+
+![8](https://github.com/user-attachments/assets/5147eb47-71ff-4996-9f90-5ede771b3367)
+
+![9](https://github.com/user-attachments/assets/f38d9151-8208-4b67-ac06-23c7778292f3)
+
+
+
+
+
+
 
