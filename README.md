@@ -2,40 +2,46 @@
 
 This is a Java-based Student Management System developed using NetBeans IDE. The application is designed to manage student and admin data efficiently, utilizing a MySQL database for data storage. The system provides a user-friendly interface for admins to perform various tasks such as adding, editing, and deleting student and admin records, as well as viewing the details of both students and admins.
 
-Technologies Used
+<u><h3>Technologies Used</h3></u>
 <ul>
-<li>Java: Core programming language used for the application.</li>
-<li>NetBeans: Integrated Development Environment (IDE) used for development.</li>
-<li>MySQL: Database management system for storing student and admin data.</li>
+🔹 Java<br>
+🔹 NetBeans<br>
+🔹 MySQL<br>
 </ul>
 
-<h3>Features</h3>
-
-User Authentication
+<u><h3>Features</h3></u>
 <ul>
-<li>Secure login for accessing the system.</li>
+
+<li><b>User Authentication</b></li><br>
+<ul>
+✅ Secure login for accessing the system.<br><br>
 </ul>
 
-Student Management:
+<li><b>Student Management:</b></li><br>
 
 <ul>
-<li>Add new students with detailed information.</li>
-<li>Edit existing student details.</li>
-<li>Delete student records.</li>
-<li>View a list of all students and their details.</li>
+✅ Add new students with detailed information.<br>
+✅ Edit existing student details.<br>
+✅ Delete student records.<br>
+✅ View a list of all students and their details.<br><br>
 </ul>
 
-Admin Management:
+<li><b>Admin Management:</b></li><br>
 <ul>
-<li>Add new admins.</li>
-<li>Edit existing admin details.</li>
-<li>Delete admin records.</li>
-<li>View a list of all admins and their details.</li>
+✅ Add new admins.<br>
+✅ Edit existing admin details.<br>
+✅ Delete admin records.<br>
+✅ View a list of all admins and their details.<br><br>
 </ul>
 
+</ul>
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/user-attachments/assets/bc6ea580-e7b6-4b91-a077-bc5555814630)
+
+
+https://github.com/user-attachments/assets/b06b65d7-0d5d-481f-9d3a-3fd2902684a6
+
+
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
